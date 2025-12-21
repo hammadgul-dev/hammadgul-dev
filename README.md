@@ -11,7 +11,13 @@
 ### 🚀 Introduction
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
 
-I am a **Computer Science student** at [**UET Peshawar**](https://www.uetpeshawar.edu.pk/) (3rd Semester) with over **2 years of experience** in frontend development. My current focus is on **mastering backend technologies** as I work towards becoming a **Full-Stack Developer**.
+<div style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">
+
+## <h3 style="font-family: 'Century Gothic', sans-serif;">I am a **Computer Science student** at [**UET Peshawar**](https://www.uetpeshawar.edu.pk/) (3rd Semester) with over **2 years of experience** in frontend development.</h3>
+
+<h3 style="font-family: 'Century Gothic', sans-serif;">My current focus is on **mastering backend technologies** as I work towards becoming a **Full-Stack Developer**.</h3>
+
+</div>
 
 * 🔭 **Current Focus:** Deep diving into Backend & System Design.
 * 💻 **Tech Stack:** HTML, CSS, JavaScript, Tailwind, React + Redux.
