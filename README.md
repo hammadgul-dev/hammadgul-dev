@@ -18,8 +18,8 @@
 ### <h3 style="font-family: 'Century Gothic', sans-serif;">I am a <b>Computer Science student</b> at <a href="https://www.uetpeshawar.edu.pk/"><b>UET Peshawar</b></a> (3rd Semester) with over <b>2 years of experience</b> in frontend development.</h3>
 
 <h4 style="font-family: 'Century Gothic', sans-serif;">Currently, I am learning <b>backend development</b> and <b>system designing</b> to become a <b>Full-Stack Developer</b>.</h4>
-
-<p style="font-family: 'Century Gothic', sans-serif; font-size: 16px;">
+<br/>
+<p style="font-family: 'Century Gothic', sans-serif; font-size: 16px; font-size: 20px;">s
 • 🔭 <b>Current Focus:</b> Deep diving into Backend & System Design. <br>
 • 💻 <b>Tech Stack:</b> HTML, CSS, JavaScript, Tailwind, React + Redux. <br>
 • 🛠️ <b>Tools:</b> Git, GitHub, and Modern Web Architectures. <br>
