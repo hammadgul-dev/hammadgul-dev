@@ -40,7 +40,7 @@ Currently, I am learning backend development and system designing to become a Fu
 
 <br/>
 
-<h1>🌐 CONNECT WITH ME<h1/>
+<h1>🌐 Connect With Me<h1/>
 <br/>
 <p align="center">
   <a href="mailto:hammadgul140413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
