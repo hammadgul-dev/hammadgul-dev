@@ -13,14 +13,19 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
 
-<div style="font-family: 'Poppins', sans-serif; font-size: 16px;">
-I am a Computer Science student at <a href="https://www.uetpeshawar.edu.pk/">UET Peshawar</a> (3rd Semester) with over 2 years of experience in frontend development.  
-Currently, I am learning backend development and system designing to become a Full-Stack Developer.
+<div align="left">
+  
+### <h3 style="font-family: 'Century Gothic', sans-serif;">I am a <b>Computer Science student</b> at <a href="https://www.uetpeshawar.edu.pk/"><b>UET Peshawar</b></a> (3rd Semester) with over <b>2 years of experience</b> in frontend development.</h3>
 
-• 🔭 Current Focus: Deep diving into Backend & System Design.  
-• 💻 Tech Stack: HTML, CSS, JavaScript, Tailwind, React + Redux.  
-• 🛠️ Tools: Git, GitHub, and Modern Web Architectures.  
-• 🎯 Goal: Building scalable applications that make an impact.
+<h4 style="font-family: 'Century Gothic', sans-serif;">Currently, I am learning <b>backend development</b> and <b>system designing</b> to become a <b>Full-Stack Developer</b>.</h4>
+
+<p style="font-family: 'Century Gothic', sans-serif; font-size: 16px;">
+• 🔭 <b>Current Focus:</b> Deep diving into Backend & System Design. <br>
+• 💻 <b>Tech Stack:</b> HTML, CSS, JavaScript, Tailwind, React + Redux. <br>
+• 🛠️ <b>Tools:</b> Git, GitHub, and Modern Web Architectures. <br>
+• 🎯 <b>Goal:</b> Building scalable applications that make an impact.
+</p>
+
 </div>
 
 <br clear="right">
