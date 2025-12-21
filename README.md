@@ -10,7 +10,7 @@
 
 <h1><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About Me</h1>
 
-<br>
+
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
 
 <div style="font-family: 'Poppins', sans-serif; font-size: 16px;">
@@ -40,7 +40,7 @@ Currently, I am learning backend development and system designing to become a Fu
 
 <br/>
 
-<1>🌐 CONNECT WITH ME</1>
+<h1>🌐 CONNECT WITH ME<h1/>
 <br/>
 <p align="center">
   <a href="mailto:hammadgul140413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
