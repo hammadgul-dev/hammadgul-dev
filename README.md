@@ -8,7 +8,7 @@
 
 ---
 
-<h1><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">About Me</h1>
+<h1><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About Me</h1>
 
 <br>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
@@ -32,22 +32,27 @@ Currently, I am learning backend development and system designing to become a Fu
 ---
 
 <h1>🛠️ My Skills</h1>
+<br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,github,git,vscode" />
 </div>
+<br/>
 
 <br/>
 
 <1>🌐 CONNECT WITH ME</1>
+<br/>
 <p align="center">
   <a href="mailto:hammadgul140413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hammad-gul-259788385/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=61585086522982"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/imhammad148/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+<br/>
 
 ---
 <h1> 📊 My Contributions</h1>
+<br/>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=material-palenight&hide_border=true&custom_title=Hammad+Gul" height="180px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadgul-dev&layout=compact&theme=material-palenight&hide_border=true" height="180px" />
