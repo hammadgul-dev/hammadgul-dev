@@ -8,7 +8,7 @@
 
 ---
 
-<h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">About Me</h2>
+<h1><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">About Me</h1>
 
 <br>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
@@ -31,14 +31,14 @@ Currently, I am learning backend development and system designing to become a Fu
 
 ---
 
-<h2>🛠️ My Skills</h2>
+<h1>🛠️ My Skills</h1>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,github,git,vscode" />
 </div>
 
 <br/>
 
-<h2>🌐 CONNECT WITH ME</h2>
+<1>🌐 CONNECT WITH ME</1>
 <p align="center">
   <a href="mailto:hammadgul140413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hammad-gul-259788385/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -47,7 +47,7 @@ Currently, I am learning backend development and system designing to become a Fu
 </p>
 
 ---
-<h2> 📊 My Contributions</h2>
+<h1> 📊 My Contributions</h1>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=material-palenight&hide_border=true&custom_title=Hammad+Gul" height="180px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadgul-dev&layout=compact&theme=material-palenight&hide_border=true" height="180px" />
