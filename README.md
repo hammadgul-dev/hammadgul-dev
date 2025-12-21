@@ -2,43 +2,43 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;React.js+Developer;Responsive+Designer;CS+Undergraduate" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;React+js+Developer;Responsive+Web+Designer;CS+Undergraduate+Student" alt="Typing Effect" />
   </a>
 </p>
 
 ---
 
-### 🚀 Introduction
+<h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">About Me</h2>
 
 <br>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
 
-<div style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">
+<div style="font-family: 'Poppins', sans-serif; font-size: 16px;">
 
-# <h2 style="font-family: 'Century Gothic', sans-serif;">I am a **Computer Science student** at [**UET Peshawar**](https://www.uetpeshawar.edu.pk/) (3rd Semester) with over **2 years of experience** in frontend development.</h2>
+I am a Computer Science student at <a href="https://www.uetpeshawar.edu.pk/">UET Peshawar</a> (3rd Semester) with over 2 years of experience in frontend development.  
+Currently, I am learning backend development and system designing to become a Full-Stack Developer.
 
-<h3 style="font-family: 'Century Gothic', sans-serif;">My current focus is on **mastering backend technologies** as I work towards becoming a **Full-Stack Developer**.</h3>
+• 🔭 Current Focus: Deep diving into Backend & System Design.  
+• 💻 Tech Stack: HTML, CSS, JavaScript, Tailwind, React + Redux.  
+• 🛠️ Tools: Git, GitHub, and Modern Web Architectures.  
+• 🎯 Goal: Building scalable applications that make an impact.
+
 
 </div>
-
-* 🔭 **Current Focus:** Deep diving into Backend & System Design.
-* 💻 **Tech Stack:** HTML, CSS, JavaScript, Tailwind, React + Redux.
-* 🛠️ **Tools:** Git, GitHub, and Modern Web Architectures.
-* 🎯 **Goal:** Building scalable applications that make an impact.
 
 <br clear="right">
 <br>
 
 ---
 
-<h2 align="center">🛠️ My Skills</h2>
+<h2>🛠️ My Skills</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,github,git,vscode" />
 </div>
 
 <br/>
 
-<h2 align="center">🌐 CONNECT WITH ME</h2>
+<h2>🌐 CONNECT WITH ME</h2>
 <p align="center">
   <a href="mailto:hammadgul140413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hammad-gul-259788385/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -47,7 +47,7 @@
 </p>
 
 ---
-
+<h2> 📊 My Contributions</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=material-palenight&hide_border=true&custom_title=Hammad+Gul" height="180px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadgul-dev&layout=compact&theme=material-palenight&hide_border=true" height="180px" />
