@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Hammad Gul 👋
 
-<!--
-**hammadgul-dev/hammadgul-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React.js | CS Undergraduate
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 I am a **Computer Science Student**.
+- 🚀 I love building **Responsive Websites**.
+- 🛠️ Currently working on **React.js** and **JavaScript** projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
+
+### 🌐 Connect with Me
+- **LinkedIn:** [Hammad Gul](https://linkedin.com/in/hammad-gul-259788385)
+- **Email:** hammadgul140413@gmail.com
