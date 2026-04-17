@@ -51,14 +51,6 @@
 </p>
 <br/>
 
----
-<h1> 📊 My Contributions</h1>
-<br/>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=material-palenight&hide_border=true&custom_title=Hammad+Gul" height="180px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadgul-dev&layout=compact&theme=material-palenight&hide_border=true" height="180px" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadgul-dev&theme=react-dark&bg_color=0D1117&color=C8BE25&line=C8BE25&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
