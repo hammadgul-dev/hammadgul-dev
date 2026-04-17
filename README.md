@@ -51,6 +51,3 @@
 </p>
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadgul-dev&theme=react-dark&bg_color=0D1117&color=C8BE25&line=C8BE25&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
