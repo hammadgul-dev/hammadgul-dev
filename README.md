@@ -60,20 +60,6 @@
  
 ---
  
-<h1>🚀 Featured Projects</h1>
- 
-| Project | Tech | Live |
-|--------|------|------|
-| 🛒 **FreshCart** — Full-stack eCommerce app | React, Node, Express, MongoDB, JWT, Nodemailer | [Live Demo](https://freshcart-frontend-tau.vercel.app) |
-| ✍️ **Blogify** — Blog platform with auth & roles | React 19, Node, Express, MongoDB, Redux, TanStack Query | In Progress |
-| 🛍️ **Advanced React Product Page** | React, Redux, React Router | [Live Demo](https://hammadgul-dev.github.io/advance-product-page/) |
-| 💻 **Real-time Code Editor** | HTML, CSS, Vanilla JS | [Live Demo](https://hammadgul-dev.github.io/code-editor/) |
-| 📝 **Task Manager** | HTML, CSS, Vanilla JS | [Live Demo](https://hammadgul-dev.github.io/task-manager/) |
- 
-<br>
- 
----
- 
 <h1>🌐 Connect With Me</h1>
 <br/>
 <p align="center">
