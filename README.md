@@ -86,3 +86,16 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadgul-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammadgul-dev&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
