@@ -69,3 +69,20 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 **Tech Stack**
 `React 19 · Vite · Node.js · Express · MongoDB · Redux Toolkit · TanStack Query`
+
+---
+
+**Frontend:**
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
+</div>
+
+**Backend & Database:**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</div>
+
+**Tools & Others:**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+</div>
