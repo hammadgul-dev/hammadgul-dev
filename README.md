@@ -1,16 +1,14 @@
 <h1 align="center">Hi there, I'm Hammad Gul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=MERN+Stack+Developer;React+js+Developer;Full+Stack+Web+Developer" alt="Typing Effect" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=MERN+Stack+Developer;React+js+Developer;Full+Stack+Web+Developer" alt="Typing Effect" />
 </p>
 
 ---
 
-## 🚀 About Me
+ ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> About Me
 
-<img align="right" width="400" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNwcGpyZHFxeXB3d2toemRjanhzdTF3aTFiOGo5c25ocWR2eDVpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400px">
 
 I'm **Hammad Gul**, a **MERN Stack Developer** and **CS Student** from **Pakistan**, focused on building **scalable, real-world web applications** using modern technologies.
 
@@ -31,7 +29,7 @@ I'm **Hammad Gul**, a **MERN Stack Developer** and **CS Student** from **Pakista
 
 ---
 
-## ⚡ What I Do
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30px"> What I Can Do
 
 - 🖥️ Build responsive UIs with **React, Tailwind CSS & Vanilla CSS**
 - ⚙️ Develop scalable REST APIs using **Node.js & Express**
@@ -42,7 +40,7 @@ I'm **Hammad Gul**, a **MERN Stack Developer** and **CS Student** from **Pakista
 
 ---
 
-## 🌟 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
 
 ### 🛒 FreshCart — eCommerce Platform
 A full-stack eCommerce application with complete shopping experience and secure authentication.
@@ -72,17 +70,21 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
 
 **Frontend:**
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
 </div>
 
+<br>
+
 **Backend & Database:**
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </div>
+
+<br>
 
 **Tools & Others:**
 <div>
@@ -91,14 +93,19 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadgul-dev&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadgul-dev&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadgul-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammadgul-dev&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
+---
+
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpsMTZzcXFzMmd6dnBmZHVyaDN4cXRqYW50bzh2ejZoanFyMjc1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.gif" width="30px"> Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hammadgul-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hammadgul140413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/hammadgul-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
