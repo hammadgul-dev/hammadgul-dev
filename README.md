@@ -1,84 +1,71 @@
 <h1 align="center">Hi there, I'm Hammad Gul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
- 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=MERN+Stack+Developer;React+js+Developer;Full+Stack+Web+Developer" alt="Typing Effect" />
   </a>
 </p>
- 
+
 ---
- 
-<h1><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About Me</h1>
- 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
- 
-<div align="left">
- 
-### I'm a **MERN Stack Developer** and **CS Student** at <a href="https://www.uetpeshawar.edu.pk/"><b>UET Peshawar</b></a>
- 
-<br/>
- 
-<p>
-• 🔭 <b>Current Focus:</b> Building full-stack apps with MERN stack<br>
-• 💻 <b>Tech Stack:</b> MongoDB, Express.js, React.js, Node.js, Redux, TanStack Query<br>
-• 🌱 <b>Currently Learning:</b> TypeScript, Next.js & Docker basics<br>
-• 🚀 <b>Projects:</b> FreshCart (eCommerce) · Blogify (Blog Platform) · 10+ more on GitHub<br>
-- 🎯 <b>Goal:</b> Build real-world web apps and grow into a Full Stack Engineer<br>
-• 📫 <b>Email:</b> iamhammad148@gmail.com
-</p>
- 
-</div>
- 
-<br clear="right">
-<br>
- 
+
+## 🚀 About Me
+
+<img align="right" width="400" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
+
+I'm **Hammad Gul**, a **MERN Stack Developer** and **CS Student** from **Pakistan**, focused on building **scalable, real-world web applications** using modern technologies.
+
+🎓 **Education**
+- **BS Computer Science Engineering — UET Peshawar**
+
+🎯 **Career Focus**
+- Full-stack web applications
+- Clean UI & reusable components
+- Performance & scalability
+- AI integration with web systems
+
+🤝 **Open for**
+- Full-time / Internship roles
+- Freelance & remote projects
+
+📧 **Email:** hammadgul140413@gmail.com
+
 ---
- 
-<h1>🛠️ Tech Stack & Skills</h1>
-<br>
- 
-**Frontend:**
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
-</div>
- 
-<br>
- 
-**Backend & Database:**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</div>
- 
-<br>
- 
-**Tools & Others:**
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-</div>
- 
-<br>
- 
+
+## ⚡ What I Do
+
+- 🖥️ Build responsive UIs with **React, Tailwind CSS & Vanilla CSS**
+- ⚙️ Develop scalable REST APIs using **Node.js & Express**
+- 🔗 Deliver full-cycle **MERN Stack** applications
+- 🗄️ Design & optimize databases with **MongoDB**
+- ✍️ Write clean, maintainable & reusable code
+- 🤖 Exploring **AI integration** in modern web apps
+
 ---
- 
-<h1>🌐 Connect With Me</h1>
-<br/>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hammadgul-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iamhammad148@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/hammadgul-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://hammadgul-dev.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
- 
-<br/>
- 
+
+## 🌟 Featured Projects
+
+### 🛒 FreshCart — eCommerce Platform
+A full-stack eCommerce application with complete shopping experience and secure authentication.
+
+**Key Features**
+- 🔐 JWT-based user authentication & authorization
+- 📦 Product listing, cart & order management
+- 📧 Email notifications via **Nodemailer**
+- 🔄 Efficient server state with **TanStack Query**
+
+**Tech Stack**
+`React.js · Node.js · Express · MongoDB · TanStack Query · JWT · Nodemailer`
+
 ---
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadgul-dev&theme=tokyonight&hide_border=true" width="48%" />
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadgul-dev&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
- 
+
+### ✍️ Blogify — Blog Platform
+A feature-rich blogging platform with rich text editing, AI features and modern auth system.
+
+**Key Features**
+- 🔐 Secure auth with **JWT & bcryptjs**
+- 📝 Rich text editing via **React Quill**
+- ⚡ Fast state management with **Redux Toolkit**
+- 🤖 AI features integrated
+
+**Tech Stack**
+`React 19 · Vite · Node.js · Express · MongoDB · Redux Toolkit · TanStack Query`
