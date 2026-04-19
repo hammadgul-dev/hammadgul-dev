@@ -8,7 +8,7 @@
 
  ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> About Me
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNwcGpyZHFxeXB3d2toemRjanhzdTF3aTFiOGo5c25ocWR2eDVpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400px">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNwcGpyZHFxeXB3d2toemRjanhzdTF3aTFiOGo5c25ocWR2eDVpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="380px">
 
 I'm **Hammad Gul**, a **MERN Stack Developer** and **CS Student** from **Pakistan**, focused on building **scalable, real-world web applications** using modern technologies.
 
@@ -73,21 +73,21 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
 
 **Frontend:**
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
 </div>
 
 <br>
 
 **Backend & Database:**
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </div>
 
 <br>
 
 **Tools & Others:**
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </div>
 
