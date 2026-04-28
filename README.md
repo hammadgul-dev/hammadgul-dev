@@ -74,7 +74,7 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 **Frontend:**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,framer,vite,typescript,nextjs" />
 </div>
 
 <br>
