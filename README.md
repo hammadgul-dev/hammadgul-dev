@@ -95,10 +95,19 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"> GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadgul-dev&theme=tokyonight&hide_border=true"/>
-</div>
+<table width="100%" border="0" cellspacing="4" cellpadding="0">
+<tr>
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hammadgul-dev&theme=tokyonight" />
+</td>
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hammadgul-dev&theme=tokyonight" />
+</td>
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammadgul-dev&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
 ---
 
