@@ -95,6 +95,12 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"> GitHub Stats
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=a8b2d8&count_private=true&include_all_commits=false" />
+
+</div>
+
 <table width="100%" border="0" cellspacing="4" cellpadding="0">
 <tr>
 <td width="33%" align="center">
