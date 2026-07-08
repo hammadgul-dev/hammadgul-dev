@@ -97,15 +97,14 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammadgul-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=a8b2d8&count_private=true&include_all_commits=false" />
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=hammadgul-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a8b2d8" />
+ <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=hammadgul-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a8b2d8" />
 
 </div>
 
 <table width="100%" border="0" cellspacing="4" cellpadding="0">
 <tr>
 <td width="33%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hammadgul-dev&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hammadgul-dev&theme=tokyonight" /> 
 </td>
 <td width="33%" align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hammadgul-dev&theme=tokyonight" />
