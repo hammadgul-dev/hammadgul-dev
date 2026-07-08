@@ -124,3 +124,7 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
   <a href="mailto:hammadgul140413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/hammadgul-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Keep%20Building.%20Keep%20Growing.&fontSize=20&fontColor=c4b5fd&animation=twinkling&fontAlignY=65"/>
