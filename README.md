@@ -81,7 +81,7 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 **Backend & Database:**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </div>
 
 <br>
