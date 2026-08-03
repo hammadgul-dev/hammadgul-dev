@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hammad Gul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=MERN+Stack+Developer;React+js+Developer;Full+Stack+Web+Developer" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Developer;React+js+Developer" alt="Typing Effect" />
 </p>
 
 ---
@@ -10,16 +10,16 @@
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNwcGpyZHFxeXB3d2toemRjanhzdTF3aTFiOGo5c25ocWR2eDVpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="380px">
 
-I'm **Hammad Gul**, a **MERN Stack Developer** and **CS Student** from **Pakistan**, focused on building **scalable, real-world web applications** using modern technologies.
+I am **Hammad Gul**, a **Full Stack Developer** and **MERN Stack Developer** from **Pakistan**, focused on building **scalable, real-world web applications** using modern technologies.
 
 🎓 **Education**
-- **BS Computer Science Engineering — UET Peshawar**
+- **BS Computer Engineering — UET Peshawar**
 
 🎯 **Career Focus**
 - Full-stack web applications
 - Clean UI & reusable components
 - Performance & scalability
-- AI integration with web systems
+- AI integration in web applications
 
 🤝 **Open for**
 - Full-time / Internship roles
@@ -34,39 +34,10 @@ I'm **Hammad Gul**, a **MERN Stack Developer** and **CS Student** from **Pakista
 - 🖥️ Build responsive UIs with **React, Tailwind CSS & Vanilla CSS**
 - ⚙️ Develop scalable REST APIs using **Node.js & Express**
 - 🔗 Deliver full-cycle **MERN Stack** applications
-- 🗄️ Design & optimize databases with **MongoDB**
+- 🗄️ Design & optimize databases with **MongoDB & PostgreSQL**
+- 🐳 Deploy and manage apps using **Docker & AWS**
 - ✍️ Write clean, maintainable & reusable code
-- 🤖 Exploring **AI integration** in modern web apps
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
-
-### 🛒 FreshCart — eCommerce Platform
-A full-stack eCommerce application with complete shopping experience and secure authentication.
-
-**Key Features**
-- 🔐 JWT-based user authentication & authorization
-- 📦 Product listing, cart & order management
-- 📧 Email notifications via **Nodemailer**
-- 🔄 Efficient server state with **TanStack Query**
-
-**Tech Stack**
-`React.js · Node.js · Express · MongoDB · TanStack Query · JWT · Nodemailer`
-
----
-
-### ✍️ Blogify — Blog Platform
-A feature-rich blogging platform with rich text editing, AI features and modern auth system.
-
-**Key Features**
-- 🔐 Secure auth with **JWT & bcryptjs**
-- 📝 Rich text editing via **React Quill**
-- ⚡ Fast state management with **Redux Toolkit**
-- 🤖 AI features integrated
-
-**Tech Stack**
-`React 19 · Vite · Node.js · Express · MongoDB · Redux Toolkit · TanStack Query`
+- 🤖 Integrate AI features into web applications
 
 ---
 
@@ -81,14 +52,14 @@ A feature-rich blogging platform with rich text editing, AI features and modern 
 
 **Backend & Database:**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
 </div>
 
 <br>
 
-**Tools & Others:**
+**Tools & DevOps:**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel,postman" />
 </div>
 
 ---
